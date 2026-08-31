@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Campus Jobs — live listings</title>
+</head>
+<body>
+  <h1>Live listings</h1>
+  <p>If you view source, the list is empty. The browser fills it in from a JSON file.</p>
+  <div id="app"></div>
+  <script>
+    fetch("/spa/jobs.json")
+      .then(function (r) { return r.json(); })
+      .then(function (jobs) {
+        var root = document.getElementById("app");
+        jobs.forEach(function (job) {
+          var p = document.createElement("p");
+          p.textContent = job.title + " — " + job.company;
+          root.appendChild(p);
+        });
+      });
+  </script>
+</body>
+</html>

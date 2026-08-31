@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://campus-jobs.example/jobs/ml-intern-clean.html</loc>
+  </url>
+  <url>
+    <loc>https://campus-jobs.example/jobs/dl-intern-messy.html</loc>
+  </url>
+  <url>
+    <loc>https://campus-jobs.example/jobs/ml-research-table.html</loc>
+  </url>
+  <url>
+    <loc>https://campus-jobs.example/jobs/ml-intern-jsonld.html</loc>
+  </url>
+  <url>
+    <loc>https://campus-jobs.example/jobs/swe-intern.html</loc>
+  </url>
+  <url>
+    <loc>https://campus-jobs.example/jobs/how-i-got-my-internship.html</loc>
+  </url>
+</urlset>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Campus Jobs</title>
+    <link>https://campus-jobs.example</link>
+    <description>Open internships for students</description>
+    <item>
+      <title>Machine Learning Engineer Intern</title>
+      <link>https://campus-jobs.example/jobs/ml-intern-clean.html</link>
+      <description>Northstar Labs — Boston, MA. Python, PyTorch, Machine Learning.</description>
+    </item>
+    <item>
+      <title>Deep Learning Intern</title>
+      <link>https://campus-jobs.example/jobs/dl-intern-messy.html</link>
+      <description>Harbor AI — New York, NY. Neural network frameworks, Python.</description>
+    </item>
+    <item>
+      <title>ML Research Intern</title>
+      <link>https://campus-jobs.example/jobs/ml-research-table.html</link>
+      <description>Cedar Analytics — Seattle, WA. Python, TensorFlow, research.</description>
+    </item>
+    <item>
+      <title>Machine Learning Intern</title>
+      <link>https://campus-jobs.example/jobs/ml-intern-jsonld.html</link>
+      <description>Beacon Robotics — Austin, TX. Python, PyTorch, robotics.</description>
+    </item>
+    <item>
+      <title>Software Engineering Intern</title>
+      <link>https://campus-jobs.example/jobs/swe-intern.html</link>
+      <description>Example Tech — Seattle, WA. Java, React, AWS.</description>
+    </item>
+  </channel>
+</rss>
